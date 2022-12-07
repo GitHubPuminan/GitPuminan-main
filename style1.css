@@ -1,3 +1,8 @@
+
+body {
+    padding: 0%;
+    margin: 0%;
+}
 .topnav1 {
     background-color: #111822;
 }
@@ -7,6 +12,9 @@
 .pad {
     padding-right: 180px;
 }
+.pad2{
+    padding-left: 30px;
+}
 .padlogo{
     padding-left: 50px;
 }
@@ -14,8 +22,62 @@ body{
     background-color: #111822;
 }
 .hello{
-    padding-right: 500px;
-    padding-bottom: 500px;
     font-size: 150px;
-    transform: rotate(-0.25turn);
+    color: black;
+}
+.contact {
+    background-color: #F3F3F3;
+}
+.contacname{
+    color: black;
+    float: left;
+    font-size: 35px;
+    padding-left: 10px;
+}
+.contactus h1{
+    margin-right: 40px;
+}
+.boarder{
+    width: 300px;
+    float: left;
+    padding-bottom: 30px;
+}
+.boarder h1{
+    padding: 5px;
+    width: 250px;
+    height: 60px;
+    background-color: rgb(255, 196, 0);
+}
+.boarder p{
+    margin-left: 50px;
+    width: 250px;
+    font-size: 20px;
+}
+#name{
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.col-md-6{
+    margin: 0%;
+    padding: 0%;
+}
+.col-md-4{
+    margin: 0%;
+    padding: 0%;
+}
+#portfolio-body{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.p1 {
+    font-weight: bold;
+}
+.p2{
+    font-size: 30px;
+}
+.p3 {
+    font-size: 25px;
+}
+.tab {
+    tab-size: 2;
 }
