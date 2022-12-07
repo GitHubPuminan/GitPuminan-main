@@ -10,7 +10,7 @@ body {
     float: right;
 }
 .pad {
-    padding-right: 180px;
+    padding-right: 280px;
 }
 .pad2{
     padding-left: 30px;
@@ -84,6 +84,23 @@ body{
 .p3 {
     font-size: 25px;
 }
+.p4 {
+    font-size: 20px;
+}
 .tab {
     tab-size: 2;
+}
+a { 
+    text-decoration: none; 
+}
+.footer{
+    background-color: #111822;
+    text-align: center;
+    color: white;
+}
+.pad5{
+    padding-top: 120px;
+}
+.pad5 p {
+    color: rgb(165, 165, 165);
 }
