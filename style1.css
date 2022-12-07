@@ -7,9 +7,15 @@
 .pad {
     padding-right: 180px;
 }
+.padlogo{
+    padding-left: 50px;
+}
 body{
     background-color: #111822;
 }
 .hello{
+    padding-right: 500px;
+    padding-bottom: 500px;
     font-size: 150px;
+    transform: rotate(-0.25turn);
 }
