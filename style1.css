@@ -27,8 +27,18 @@ body{
     background-color: #111822;
 }
 .hello{
-    font-size: 150px;
+    font-size: 100px;
     color: black;
+    font-weight: bold;
+    left: calc(0% - 0.5rem);
+    top: calc(10% - 0.5rem);
+    line-height: 1;
+    position: relative;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    white-space: nowrap;
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl; 
 }
 .contact {
     background-color: #F3F3F3;
